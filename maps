@@ -1,0 +1,64 @@
+{
+    "id": 145,
+    "name": "Macho Temple",
+    "imageUrl": "https://github.com/Jasezone/finals/blob/master/1.JPG?raw=true",
+    "priceCurrency": "Php",
+    "price": 0,
+    "lat": 16.621166,
+    "lng": 120.317460
+  },
+  {
+    "id": 148,
+    "name": "Pindangan",
+    "imageUrl": "https://github.com/Jasezone/finals/blob/master/pindangan.jpg?raw=true",
+    "priceCurrency": "Php",
+    "price": 0,
+    "lat": 16.588140,
+    "lng": 120.314619
+  },
+  {
+    "id": 201,
+    "name": "Bahay na Bato",
+    "imageUrl": "https://github.com/Jasezone/finals/blob/master/bahay.JPG?raw=true",
+    "priceCurrency": "Php",
+    "price": 0,
+    "lat": 16.847189,
+    "lng": 120.3517
+  },
+  {
+    "id": 205,
+    "name": "Marand Resort",
+    "imageUrl": "https://github.com/Jasezone/finals/blob/master/marand.jpg?raw=true",
+    "priceCurrency": "Php",
+    "price": 150,
+    "lat": 16.5264,
+    "lng": 120.351394
+  },
+  {
+    "id": 210,
+    "name": "Bacsil Ridge",
+    "imageUrl": "https://github.com/Jasezone/finals/blob/master/bacsil.jpg?raw=true",
+    "priceCurrency": "Php",
+    "price": 0,
+    "lat": 16.618268,
+    "lng": 120.363261
+  },
+  {
+    "id": 211,
+    "name": "San Juan",
+    "imageUrl": "https://github.com/Jasezone/finals/blob/master/sj.jpg?raw=true",
+    "priceCurrency": "Php",
+    "price": 200,
+    "lat": 16.6720,
+    "lng": 120.3628
+  },
+    {
+    "id": 212,
+    "name": "Jase's House",
+    "imageUrl": "https://github.com/Jasezone/finals/blob/master/ourhouse.PNG?raw=true",
+    "priceCurrency": "₱",
+    "price": 99999999999,
+    "lat": 16.603982,
+    "lng": 120.346564
+  }
+]
